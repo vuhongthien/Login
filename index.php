@@ -18,10 +18,10 @@
 
         <div class="form-group">
             <i class="far fa-key"></i>
-            <label>Mật khẩu</label>
-            <input type="password" class="form-input" id="txtmatkhau" name="password" placeholder="Mật khẩu">
+            <label>Password</label>
+            <input type="password" class="form-input" id="txtpassword" name="password" placeholder="Mật khẩu">
         </div>
-        
+        <input type="submit" name="submit" value="btnlogin" class="form-submit">
     </form>
 </div>
 </body>
