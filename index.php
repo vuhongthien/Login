@@ -21,7 +21,7 @@
             <label>mật khẩu</label>
             <input type="password" class="form-input" id="txtpassword" name="password" placeholder="Mật khẩu">
         </div>
-        <input type="submit" name="submit" value="btnlogin" class="form-submit">
+        <input type="submit" name="submit" value="đăng nhập" class="form-submit">
     </form>
 </div>
 </body>
